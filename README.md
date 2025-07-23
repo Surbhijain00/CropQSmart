@@ -1,7 +1,7 @@
 
 # 🌱 CropQSmart: Empowering-Smarter-Agriculture-with-AI-Driven-Insights
 
-[![Website](https://img.shields.io/badge/View%20Live%20Demo-🌐-blue)](https://cropq.vercel.app/)
+
 
 
 ## 🌟 About CropQSmart
@@ -45,10 +45,6 @@ At **CropQSmart**, we are transforming agriculture into a smarter, more sustaina
 - **Deployment**: Vercel (Frontend), Heroku (ML Fast APIs)
 
 
-## 🚀 Performance Highlights
-### **PageSpeed Insights Scores**
-
-![{5AB67F44-F239-4103-B64E-C8422432F838}](https://github.com/user-attachments/assets/1405d917-0c4d-4d21-9e8b-7e5b3668b2df)
 
 <br>
 <br>
@@ -89,7 +85,7 @@ At **CropQSmart**, we are transforming agriculture into a smarter, more sustaina
 
 
 ## 3. Features Page
-### Crop Identification Page
+### 🚀 Crop Identification Page
 
 <br>
 
@@ -132,12 +128,12 @@ At **CropQSmart**, we are transforming agriculture into a smarter, more sustaina
 <br>
 
 
-### Crop Recommendation Page
+### 🚀 Crop Recommendation Page
 
 <br>
 
 
-![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS19.png)
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/S19.png) 
 
    <br>
 
@@ -155,21 +151,154 @@ At **CropQSmart**, we are transforming agriculture into a smarter, more sustaina
 
    <br>
 
-![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS12.png)
+<br>
+
+### 🚀 Fertilizer Recommendation Page
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS23.png)
+
+   <br>
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS24.png)
+
+   <br>
+
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS25.png)
+
+   <br>
+   <br>
+   
+### 🚀 Plant Disease Detection
+   
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS26.png)
+
+   <br>
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS27.png)
+
+   <br>
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS28.png)
+
+   <br>
+
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS29.png)
+
+   <br>
+   <br>
+   
+
+### 🚀 Weather Report
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS30.png)
+
+   <br>
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS31.png)
+
+   <br>
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS32.png)
+
+   <br>
+
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS29.png)
+
+   <br>
+   <br>
+
+
+### 🚀 Market Price Forecasting
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS33.png)
+
+   <br>
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS34.png)
+
+   <br>
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS35.png)
+
+   <br>
+
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS36.png)
+
+   <br>
+   
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS37.png)
+
+   <br>
+   <br>
+
+
+## 4. For Developers Page
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS38.png)
+
+   <br>
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS39.png)
+
+   <br>
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS40.png)
+
+   <br>
+
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS41.png)
+
+   <br>
+   
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS42.png)
+
+   <br>
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS43.png)
+
+   <br>
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS44.png)
+
+   <br>
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS45.png)
+
+   <br>
+
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS46.png)
+
+   <br>
+   
+
+   <br>
+   
+## 5. Contact Page
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS47.png)
+
+   <br>
+
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS48.png)
+
+   <br>
 
 
 
+##  Chatbot
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS50.png)
 
+   <br>
+   <br>
+   <br>
 
-
-
-
-
-
-
-
-
-
+[![Website](https://img.shields.io/badge/View%20Live%20Demo-🌐-blue)](https://cropq.vercel.app/)
 
 
 

@@ -7,6 +7,7 @@
 ## 🌟 About CropQSmart
 At **CropQSmart**, we are transforming agriculture into a smarter, more sustainable venture. Using AI-driven insights, we empower farmers, researchers, and enthusiasts with the tools they need to enhance productivity, sustainability, and innovation. From crop identification to market price forecasting, **CropQ** is here to help cultivate smarter solutions for a thriving planet. 🌍✨
 
+
 ## ✨ Main Features
 - 💬 **AI-Powered Chatbot**: Developed using **Lang Chain**, a framework for building applications powered by large language models (LLMs). Enables users to ask agriculture-related queries and receive instant, data-driven insights.
 - 🌿 **Crop Identification**: Upload images to identify crops and receive detailed care recommendations.
@@ -48,6 +49,137 @@ At **CropQSmart**, we are transforming agriculture into a smarter, more sustaina
 ### **PageSpeed Insights Scores**
 
 ![{5AB67F44-F239-4103-B64E-C8422432F838}](https://github.com/user-attachments/assets/1405d917-0c4d-4d21-9e8b-7e5b3668b2df)
+
+<br>
+<br>
+
+# 🌐 Screenshots
+<br>
+
+## 1. Home Page
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS1.png) 
+
+   <br>
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS15.png)
+
+   <br>
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS16.png)
+
+   <br>
+
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS5.png)
+
+   <br>
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS6.png)
+
+
+<br>
+<br>
+
+
+## 2. Workflow page
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS18.png)
+
+   <br>
+
+
+
+## 3. Features Page
+### Crop Identification Page
+
+<br>
+
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS7.png)
+
+   <br>
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS9.png)
+
+   <br>
+
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS10.png)
+
+   <br>
+   
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS11.png)
+
+   <br>
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS12.png)
+
+   <br>
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS13.png)
+
+   <br>
+
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS14.png)
+
+   <br>
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS6.png)
+
+
+<br>
+<br>
+
+
+### Crop Recommendation Page
+
+<br>
+
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS19.png)
+
+   <br>
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS20.png)
+
+   <br>
+
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS21.png)
+
+   <br>
+   
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS22.png)
+
+   <br>
+
+![image](https://github.com/Surbhijain00/CropQSmart/blob/main/Screenshots/SS12.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 🌐 Live Demo
 ✨ **[CropQ](https://cropq.vercel.app/)** is live! Explore the features and see how AI is revolutionizing agriculture.

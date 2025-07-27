@@ -298,7 +298,7 @@ At **CropQSmart**, we are transforming agriculture into a smarter, more sustaina
    <br>
    <br>
 
-[![Website](https://img.shields.io/badge/View%20Live%20Demo-🌐-blue)](https://cropq.vercel.app/)
+
 
 
 

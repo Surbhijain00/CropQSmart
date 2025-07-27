@@ -311,6 +311,6 @@ At **CropQSmart**, we are transforming agriculture into a smarter, more sustaina
 
 
 ## 🌐 Live Demo
-✨ **[CropQ](https://cropq.vercel.app/)** is live! Explore the features and see how AI is revolutionizing agriculture.
+✨ **[CropQ](https://cropq.googledrive.app/)** is live! Explore the features and see how AI is revolutionizing agriculture.
 
-![cropq](https://github.com/user-attachments/assets/0ee129d3-535c-4b93-b774-b2b1afed794f)
+
